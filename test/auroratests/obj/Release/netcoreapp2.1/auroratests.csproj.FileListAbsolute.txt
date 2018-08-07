@@ -1,0 +1,17 @@
+/Users/tnederveld/workspace/dotnet/aurora/test/auroratests/bin/Release/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/tnederveld/workspace/dotnet/aurora/test/auroratests/bin/Release/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/tnederveld/workspace/dotnet/aurora/test/auroratests/bin/Release/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/tnederveld/workspace/dotnet/aurora/test/auroratests/bin/Release/netcoreapp2.1/auroratests.deps.json
+/Users/tnederveld/workspace/dotnet/aurora/test/auroratests/bin/Release/netcoreapp2.1/auroratests.runtimeconfig.json
+/Users/tnederveld/workspace/dotnet/aurora/test/auroratests/bin/Release/netcoreapp2.1/auroratests.runtimeconfig.dev.json
+/Users/tnederveld/workspace/dotnet/aurora/test/auroratests/bin/Release/netcoreapp2.1/auroratests.dll
+/Users/tnederveld/workspace/dotnet/aurora/test/auroratests/bin/Release/netcoreapp2.1/auroratests.pdb
+/Users/tnederveld/workspace/dotnet/aurora/test/auroratests/bin/Release/netcoreapp2.1/aurora.dll
+/Users/tnederveld/workspace/dotnet/aurora/test/auroratests/bin/Release/netcoreapp2.1/aurora.pdb
+/Users/tnederveld/workspace/dotnet/aurora/test/auroratests/obj/Release/netcoreapp2.1/auroratests.csprojAssemblyReference.cache
+/Users/tnederveld/workspace/dotnet/aurora/test/auroratests/obj/Release/netcoreapp2.1/auroratests.csproj.CoreCompileInputs.cache
+/Users/tnederveld/workspace/dotnet/aurora/test/auroratests/obj/Release/netcoreapp2.1/auroratests.AssemblyInfoInputs.cache
+/Users/tnederveld/workspace/dotnet/aurora/test/auroratests/obj/Release/netcoreapp2.1/auroratests.AssemblyInfo.cs
+/Users/tnederveld/workspace/dotnet/aurora/test/auroratests/obj/Release/netcoreapp2.1/auroratests.csproj.CopyComplete
+/Users/tnederveld/workspace/dotnet/aurora/test/auroratests/obj/Release/netcoreapp2.1/auroratests.dll
+/Users/tnederveld/workspace/dotnet/aurora/test/auroratests/obj/Release/netcoreapp2.1/auroratests.pdb

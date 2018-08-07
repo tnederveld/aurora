@@ -7,9 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CF9A006A-9C0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aurora", "src\aurora\aurora.csproj", "{6F542C25-A836-4098-AB84-1F8230C2A5C6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{8B3EA1A5-3F2B-4A3A-A627-787591E62C03}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{8B3EA1A5-3F2B-4A3A-A627-787591E62C03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "auroratests", "tests\auroratests\auroratests.csproj", "{6447D11F-0775-45D8-8752-B3A76113CF2B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "auroratests", "test\auroratests\auroratests.csproj", "{6447D11F-0775-45D8-8752-B3A76113CF2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

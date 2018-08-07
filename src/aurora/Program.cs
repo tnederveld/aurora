@@ -14,11 +14,17 @@ namespace aurora
     {
         public static void Main(string[] args)
         {
-            CreateWebHostBuilder(args).Build().Run();
+            BuildWebHost(args).Run();
         }
 
-        public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
+        public static IWebHost BuildWebHost(string[] args) =>
+            WebHostBuilder(args).Build();
+
+        public static IWebHostBuilder WebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
+                .ConfigureLogging((ctx, bldr) => {
+                    bldr.AddConfiguration(ctx.Configuration.GetSection("Logging"));
+                })
                 .UseStartup<Startup>();
     }
 }
